@@ -38,7 +38,7 @@ pip3 install threading
 
 ### 3. Open_school_messages App
 
-這是一個用 AppleScript 寫的 App，這個 app 會幫我檢查我的 mail 中是否有來自++中央大學++或++衛保組-劉孔群組長++的未讀郵件，如果有則幫我打開並設成已讀
+這是一個用 AppleScript 寫的 App，這個 app 會幫我檢查我的 mail 中是否有來自中央大學或衛保組-劉孔群組長的未讀郵件，如果有則幫我打開並設成已讀
 
 ### 4. Python Driver
 
