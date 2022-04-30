@@ -72,3 +72,5 @@ https://stackoverflow.com/questions/48856158/change-icon-of-notification-when-us
 https://www.796t.com/content/1534308017.html
 https://stackoverflow.com/questions/16559947/applescript-open-mail-then-open-most-recent-5-email
 https://alvinalexander.com/mac-os-x/how-to-fire-mac-notifications-applescript-scala-java/
+Icons:
+https://findicons.com/icon/93600/audio_volume_high
