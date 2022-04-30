@@ -71,8 +71,7 @@ https://blog.gtwang.org/programming/python-threading-multithreaded-programming-t
 
 Apple Script:
 
-https://stackoverflow.com/questions/48856158/
-change-icon-of-notification-when-using-osascript-e-display-notification
+https://stackoverflow.com/questions/48856158change-icon-of-notification-when-using-osascript-e-display-notification
 
 https://www.796t.com/content/1534308017.html
 
