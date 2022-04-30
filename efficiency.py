@@ -2,7 +2,7 @@ import psutil
 import osascript
 from time import sleep
 import threading
-
+import os
 
 def check_battery():
     while True:
@@ -21,13 +21,11 @@ def check_volume():
         
 def open_message():
     while True:
-        if(current_time == "08:00:00"):
-            osascript.run('tell application "open_school_messages" to run')
-            sleep(3600)
+        os.system("cd /Users/kangkang/kypkk/efficiencies/open_school_messages.app/Contents/MacOS \n ./applet")
+        sleep(3600)
 
 # driver code
 if __name__ == '__main__':
-    osascript.run('tell application "open_school_messages" to run')
     battery = threading.Thread(target=check_battery)
     volume = threading.Thread(target=check_volume)
     message = threading.Thread(target=open_message)
