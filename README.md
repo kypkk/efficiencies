@@ -44,6 +44,10 @@ pip3 install threading
 
 在我的 Python Driver 中我 import 了 psutil 幫我檢查電池狀況 threading, osascript 幫我同時控制使用以上三個 app
 
+p.s.在 function open_message()中我不直接執行 open_school_message app 是因為蘋果系統中的一個 bug:
+**Not authorized to send Apple events to System Events (-1743)**
+因此我才直接 cd 進這個 app 直接執行執行檔 applet
+
 ## Execute
 
 ```zsh
