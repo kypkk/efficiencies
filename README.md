@@ -1,5 +1,9 @@
 # efficiencies
 
+## Warning
+
+#### This is an app only for macOS user.
+
 ## Motivation
 
 - 為了減緩我 MacBook 的更換頻率、以及電腦本身的衰退速度，我聽信了網路上流傳著的神秘「**40-80 法則**」，顧名思義就是讓電腦電量盡量維持在 40-80%就能延長其電池壽命。因此我需要一款 app 來提醒我充電。
